@@ -1,0 +1,17 @@
+
+{
+  "name": "react-native-fileprovider",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "bhram",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
